@@ -1,3 +1,3 @@
-# index.
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/gabrielapalhari-droid/index.)
+A aula a seguir é sobre java script, da maté ria back-end do professor João.
+Me chamo Gabriela e estou começando a programar.
+a seguir teremos testes e alguns exemplos.
